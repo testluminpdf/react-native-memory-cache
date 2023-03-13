@@ -19,7 +19,7 @@ use following API:
 ## Installation
 
 ```
-npm install --save react-native-clcasher
+npm install --save react-native-memory-cache
 ```
 
 ## Usage
